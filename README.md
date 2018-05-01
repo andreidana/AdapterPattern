@@ -27,5 +27,5 @@ An object adapter
 **Related Patterns**
 
 - Bridge
-- Decorator
-- Proxy
+- [Decorator](https://github.com/andreidana/DecoratorPattern)
+- [Proxy](https://github.com/andreidana/ProxyExample)
