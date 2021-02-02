@@ -14,6 +14,8 @@ namespace AdapterExample
 
             compositionAdapter.Build();
             Console.WriteLine($"We have decorated the event room - {compositionAdapter.EventRoom.Decorated}");
+
+            Console.ReadLine();
         }
     }
 }
